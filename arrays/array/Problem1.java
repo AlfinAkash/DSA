@@ -1,4 +1,4 @@
-package arrays.array;
+//package arrays.array;
 import java.util.Scanner;
 //Title :- Java program to reverse the given arrays.array
 class Problem1{
