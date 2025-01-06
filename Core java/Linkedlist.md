@@ -55,9 +55,9 @@ public class LinkedListExample {
 Output:
 
 LinkedList: [Apple, Banana, Orange]
-
+```
 3. LinkedList Methods
-
+```
 Java LinkedList provides several methods for performing operations. Here are some common ones:
 
 add()
@@ -122,9 +122,9 @@ offer()
 Adds an element to the end of the list.
 
 list.offer("Cherry"); // Adds Cherry to the end of the list
-
+```
 4. LinkedList Example
-
+```
 Let’s explore a more detailed example, demonstrating the usage of various LinkedList methods.
 
 import java.util.LinkedList;
@@ -176,9 +176,9 @@ Apple is present in the list
 First element: Apple
 Size of the LinkedList: 2
 LinkedList after clear: []
-
+```
 5. LinkedList Performance
-
+```
 Access time: O(n) — LinkedList does not allow random access, so accessing an element takes linear time.
 
 Insertion and deletion at the beginning and end: O(1) — Efficient insertions and deletions at the beginning and end of the list.
@@ -192,9 +192,9 @@ When you need efficient insertions or deletions at both ends.
 
 When memory usage is not a concern, as each element requires extra memory for storing the next node reference.
 
-
+```
 6. Conclusion
-
+```
 In this tutorial, we have explored how to use LinkedList in Java. We covered its creation, common methods, and performance characteristics. LinkedList is ideal for applications where you need efficient insertion and deletion at the ends of the list, though it may not be the best choice for random access scenarios.
 
 Java’s LinkedList provides many powerful methods for manipulating lists efficiently, making it an essential data structure for Java developers.
