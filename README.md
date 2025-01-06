@@ -30,21 +30,4 @@ git clone https://github.com/AlfinAkash/DSA.git
 
 ```
 cd DSA
-```
-Explore the Repository
-
-You can now explore the files and folders for various DSA problems and solutions.
-
-Contributions
-
-Feel free to fork this repository, make changes, and submit pull requests if you'd like to contribute!
-
-License
-
-This project is open-source and available under the MIT License.
-
-
----
-
-Happy Coding!
 
