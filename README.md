@@ -13,7 +13,7 @@ Ensure you have Git installed on your system. You can check by running:
 
 ```bash
 git --version
-
+```
 Clone the Repository
 
 1. Open your terminal or command prompt.
@@ -22,15 +22,15 @@ Clone the Repository
 2. Run the following command to clone the repository:
 
 
-
+```
 git clone https://github.com/AlfinAkash/DSA.git
-
+```
 3. Navigate to the repository folder:
 
 
-
+```
 cd DSA
-
+```
 Explore the Repository
 
 You can now explore the files and folders for various DSA problems and solutions.
