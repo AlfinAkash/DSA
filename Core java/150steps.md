@@ -2,7 +2,7 @@
 
 Welcome to this book on **"Learning Java In 150 Steps"**. 
 
-I am **Ranga Karanam**, and I have more than two decades of programming experience. 
+I am **AlfinAkash**, and I have more than two decades of programming experience. 
 
 I love Programming. One of the aims I had when I started ```in28minutes``` was to make learning programming easy. Thanks for helping us provide amazing courses to 300,000 learners across the world.
 
