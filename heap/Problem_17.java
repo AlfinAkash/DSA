@@ -1,5 +1,4 @@
 package heap;
-
 // Problem Title => Java program to rearrange characters in a string so that no two adjacent characters are same.
 
 import java.io.*;
