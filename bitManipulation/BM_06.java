@@ -1,7 +1,3 @@
-
-
-
-
 package bitManipulation;
 /*	
  * Problem Title :- Find position of the only set bit
