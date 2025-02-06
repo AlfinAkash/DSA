@@ -28,7 +28,8 @@ class DP_Problem_06 {
         return matrixChainMemoised(p, i, j);
     }
 
-    // Driver Code
+    //Driver code
+    
     public static void main (String[] args) {
 
         int[] arr = { 1, 2, 3, 4 };
