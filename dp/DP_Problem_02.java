@@ -1,6 +1,6 @@
 package dp;
 
-// Definition:-
+
 
 // ! Knapsack problem is a problem in combinatorial optimization. 
 // * Given a set of items, 
