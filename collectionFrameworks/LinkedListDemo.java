@@ -1,3 +1,4 @@
+
 package basic_idea_of_DS;
 import java.util.LinkedList;
 public class LinkedListDemo {
