@@ -14,7 +14,7 @@ public class Problem_1 {
 
     Node root;
 
-    // ! Constructor
+    // Constructor
     Problem_1() {
         root = null;
     }
