@@ -4,7 +4,6 @@ public class Problem_31 {
     public static int lcs(String text1, String text2) {
         int m = text1.length();
         int n = text2.length();
-    
         // Create a DP table to store LCS lengths
         int[][] dp = new int[m + 1][n + 1];
     
