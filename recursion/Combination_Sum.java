@@ -22,7 +22,6 @@ public class Combination_Sum {
     // Combination(ans, new_List, int b, AL, 0)
     // finally return the ans
     // <--------------------------------------------------------------------------------------------------------------->
-
     public static void combination(ArrayList<Integer> A, ArrayList<ArrayList<Integer>> ans, int B, List<Integer> AL, int index){
         // base case
         if(index == A.size()){
