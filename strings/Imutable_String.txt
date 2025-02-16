@@ -1,3 +1,5 @@
+// string immutable 
+
 Question ==> Why strings are immutable in Java?
 Answer ==>
             String is Immutable in Java because String objects are cached in String pool.
