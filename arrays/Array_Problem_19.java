@@ -2,7 +2,7 @@ package arrays;
 
 /* Problem Title: Find common elements in 3 sorted arrays */
 public class Array_Problem_19 {
-
+//updateted
     // This function prints common elements in firstArray
     void findCommon(int[] firstArray, int[] secondArray, int[] thirdArray) {
         // Initialize starting indices for arrays
