@@ -5,7 +5,7 @@ public class MColoringProblem {
     // Number of vertices in the graph
     static int V = 4;
 
-
+//print 
     static  void printSolution(int[] color){
         System.out.println("Solution Exists:" + "Following are the assigned colors ");
         for(int i = 0 ; i < V; i++){
