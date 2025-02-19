@@ -5,7 +5,7 @@ package backtracking;
  * Task - Calculate the length of the longest possible route possible from the source to destination within the matrix.
  * Note - We are allowed to move to only adjacent cells which are not hurdles.
  *        The route can not contain any diagonal moves and a location once visited in a particular path cannot be visited again.
- *  Example -
+ *  Example 
  *  i/p ->                          the longest path ->
  *      1 1 1 1 1 1 1 1 1 1          1 1 0 1 1 0 1 1 1 1
  *      1 1 0 1 1 0 1 1 0 1          1 1 0 1 1 0 1 1 0 1
