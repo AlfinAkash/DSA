@@ -49,7 +49,7 @@ public class N_Queen {
             }
         }
 
-        // If the queen can not be placed in any row in this col, then return false
+        // If the queen can not be placed in any row in this col,, then return false
         return false;
     }
     
