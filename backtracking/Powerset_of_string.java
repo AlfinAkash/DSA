@@ -1,5 +1,6 @@
 package backtracking;
 
+//String 
 public class Powerset_of_string {
 
     void powerSet(String s, int i, String curr) {
