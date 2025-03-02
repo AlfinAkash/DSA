@@ -1,7 +1,7 @@
 package backtracking;
 
 import java.util.*;
-
+//palindrome 
 public class Print_All_Palindrome_Partitions {
     // function to find all partitions palindromes
     static void allPalPartitions(String input){
