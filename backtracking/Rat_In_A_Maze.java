@@ -1,7 +1,7 @@
 package backtracking;
-/*
- * Java program to solve Rat in a maze problem using backtracking
- */
+
+
+
 public class Rat_In_A_Maze {
 	
 	//Size of the maze(matrix)
