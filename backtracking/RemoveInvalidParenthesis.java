@@ -2,7 +2,8 @@ package backtracking;
 
 import java.util.*;
 
-// Problem Title => Remove Invalid Parenthesis
+// REMOVE PARENTHESIS
+
 public class RemoveInvalidParenthesis {
 
   // check if character parenthesis (is open or close)
