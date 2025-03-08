@@ -1,5 +1,6 @@
 package backtracking;
 
+// subset sum
 public class Subset_Sum {
 
     public static boolean isSubsetSum(int[] set, int n, int sum ){
