@@ -37,8 +37,7 @@ public class Problem1 {
             }
             else
                 e = mid - 1;
-
-            mid = s + (e-s)/2;
+                mid = s + (e-s)/2;
         }
         return ans;
     }
