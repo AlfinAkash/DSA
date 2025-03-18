@@ -1,7 +1,7 @@
 package miscellaneous.aoa_lab;
 
 import java.util.LinkedList;
-
+//BFS
 public class BFS {
     private final int V;
 
