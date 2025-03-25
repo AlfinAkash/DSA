@@ -11,8 +11,7 @@ public class BM_02 {
 		int sum = 0;
 		for(int i = 0; i < n; i++) {
 			// XOR all the elements of the arrays.array
-			// all the elements occur-ing twice will
-			// cancel out each other remaining
+			// all the elements occur-ing twice 
 			// two unique numbers will be xor'ed
 			sum = (sum^a[i]);
 		}
