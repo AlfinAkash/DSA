@@ -4,7 +4,6 @@ package heap;
 public class Problem_5 {
     // A class for Max Heap
     static class MinHeap {
-
         int[] harr; // pointer to arrays.array of elements in heap
         int capacity; // maximum possible size of min heap
         int heap_size; // Current number of elements in min heap
@@ -69,7 +68,6 @@ public class Problem_5 {
 
     // Function to return kith the largest element in a given arrays.array
     int kthSmallest(int[] arr, int n, int k) {
-
         // Build a heap of first k elements: O(k) time
         MinHeap mh = new MinHeap(arr, n);
 
@@ -81,7 +79,6 @@ public class Problem_5 {
         // Return root
         return mh.getMin();
     }
-
     // Driver program to test above methods
     public static void main(String[] args) {
         int[] arr = { 12, 3, 5, 7, 19 };
