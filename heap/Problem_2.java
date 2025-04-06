@@ -19,7 +19,6 @@ public class Problem_2 {
             int temp = arr[0];
             arr[0] = arr[i];
             arr[i] = temp;
-
             // call max heapify on the reduced heap
             heapify(arr, i, 0);
         }
